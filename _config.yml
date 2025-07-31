@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Huirong Chai"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Huirong Chai"
+description              : &description "Hi! My name is Huirong Chai, I'm a Ph.D. student in the Department of Computer Science at Georgia State University(GSU), advised by Prof. Haoxin Wang. I am a part of AMAI Research Group. Prior joining GSU, I worked as Emerging Technology Consultant for Ernst & Young (EY), where I was fortunate to be mentored by Alim Williams and James Hwang. I obtained my Master's Degree in Business Analytics from Eller School of Management and my Bachelor's Degree in Mathematics from The University of Arizona. \n\nMy research interests include Human-Computer Interaction(HCI), pose/trajectory prediction, computer vision, and machine learning. I am particularly interested in developing novel machine learning algorithms to solve real-world HCI problems."
+url                      : https://huirong-chai.github.io #https://ascademicpage.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : hrchai/huirong-chai.github.io #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "hchai1.png"
+  name             : "Huirong Chai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. student at Georgia State University"
+  location         : "Atlanta, GA"
+  employer         : "Georgia State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hchai4@gsu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hrchai"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "linkedin.com/in/huirong-amy-chai/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
